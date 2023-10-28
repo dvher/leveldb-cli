@@ -122,6 +122,7 @@ Displays all content of the database limited by "LIMIT".
  * `geohash` - Attempts to convert the data format of the `geohash` in the coordinates of the center (lat, lng)
  * `int64` - Attempts to display the data as an integer 64-bit number
  * `float64` - Attempts to display the data as a 64-bit number c with a floating point
+ * `hex` - Prints each byte as a pair of hexadecimal numbers
  
 ### help
 > help
